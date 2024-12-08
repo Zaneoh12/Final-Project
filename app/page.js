@@ -48,9 +48,24 @@ const Page = () => {
       answer: "Trojans"
     },
     {
-      question: "Who is your favourite student?",
-      options: ["Zane", "ZANE", "not zane", "zane"],
-      answer: "not zane"
+      question: "What animal has valves in its neck?",
+      options: ["Girrafe", "Whale", "Horse", "Dog"],
+      answer: "Girrafe"
+    },
+    {
+      question: "When did the oilers win their first cup?",
+      options: ["1984", "1999", "2005", "2010"],
+      answer: "1984"
+    },
+    {
+      question: "Who has the lowest IQ?",
+      options: ["Moron", "Ibicle", "Idiot", "Smooth brain"],
+      answer: "Idiot"
+    },
+    {
+      question: "is there a starbucks on campuss?",
+      options: ["Yes", "No"],
+      answer: "Yes"
     },
   ];
 
